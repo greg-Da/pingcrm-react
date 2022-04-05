@@ -22,7 +22,7 @@ Typescript[https://www.carlrippon.com/why-typescript-with-react/]
 Typescript can be usefull in large apps especially when different developers works on the same project.
 It has a lot of advantages for developers like making the code more easely readeable for a new comer on a project or during refactoring, and catching potential bugs while we type the code avoiding even further the refactoring time
 
-Miscealleaneous - Crowdsec[https://crowdsec.net/]
+Miscellaneous - Crowdsec[https://crowdsec.net/]
 To install on the production server, it is a community-based solution to secure your server.
 Allowing you to create an intrusion detection system which apply behavior scenarios to identify threats or reconise blacklisted IPs, and reply with the setup 'bouncers' for the correct trigger (e.g: capthta, ban, etc.)
 
@@ -33,9 +33,9 @@ Better dasboard
 The actual dashboard doesn't serve any purpose for users, some components should be implemented like displayings the most recents reports/organisations for example or even display information for the current user
 
 Adding contact / support
-Every plateform should display some contact information or some form of support on the platform to help solve any problems that may arise
+Every platform should display some contact information or some form of support on the platform to help solve any problems that may arise
 
 
 Multilanguage
-Adding a multilanguage and localization would allow to more users to the plateform by removing the language barrier for them
+Adding a Multilanguage and localization would allow for more users to the platform by removing the language barrier for them
 
